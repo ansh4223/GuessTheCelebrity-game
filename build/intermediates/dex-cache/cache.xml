@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Himanshu\AndroidStudioProjects\GuessTheCelebrity\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Himanshu\AndroidStudioProjects\GuessTheCelebrity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_61605329d47559cd143ece0f5c9a5bbfa9f1517c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Himanshu\AndroidStudioProjects\GuessTheCelebrity\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Himanshu\AndroidStudioProjects\GuessTheCelebrity\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_02f405da919587dfcebcaac4993177a0954f1f05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Himanshu\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Himanshu\AndroidStudioProjects\GuessTheCelebrity\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_44c5a7ffa73d179d01e3a732fbc1e8587e35fddc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Himanshu\AndroidStudioProjects\GuessTheCelebrity\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Himanshu\AndroidStudioProjects\GuessTheCelebrity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_96be73ee3d80943c504e5b445cfc8dca6c95b17a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Himanshu\AndroidStudioProjects\GuessTheCelebrity\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="fbb860ae4eb2c5b6237556fabacba1a19bd946e3">
+        <dex dex="C:\Users\Himanshu\AndroidStudioProjects\GuessTheCelebrity\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f13da38220531abbe7f89f48fbf78438042b105c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Himanshu\AndroidStudioProjects\GuessTheCelebrity\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Himanshu\AndroidStudioProjects\GuessTheCelebrity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_e5053b70754846e98772dd7d836ce8f8e2646eab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Himanshu\AndroidStudioProjects\GuessTheCelebrity\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Himanshu\AndroidStudioProjects\GuessTheCelebrity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_81ca133a85a6fee213fe1420a43056db8192b421\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Himanshu\AndroidStudioProjects\GuessTheCelebrity\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="29.0.3"
+        sha1="35fbf87d3b4a38bd78045e8f6a42954dc2684ac5">
+        <dex dex="C:\Users\Himanshu\AndroidStudioProjects\GuessTheCelebrity\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b6d68ebc7f8abcb3f483529cf972d89c31596aa5\classes.dex" />
+    </item>
+
+</items>
